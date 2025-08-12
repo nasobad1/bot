@@ -1,1 +1,9 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
 .env 
+=======
+.env
+>>>>>>> 216a51b (Add .gitignore to exclude .env file)
+=======
+.env 
+>>>>>>> 4a111e7 (Add .gitignore to ignore .env)

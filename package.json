@@ -1,0 +1,14 @@
+{
+  "name": "discord-openai-bot",
+  "version": "1.0.0",
+  "description": "A Discord bot using OpenAI GPT",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.6.1",
+    "openai": "^5.12.2"
+  }
+}
